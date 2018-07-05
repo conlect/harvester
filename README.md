@@ -1,6 +1,6 @@
-##Harvester Package
+## Harvester Package
 
-###Composer Setup
+### Composer Setup
 ```json
     "require": {
         "imamuseum/harvester": "^2.0"
